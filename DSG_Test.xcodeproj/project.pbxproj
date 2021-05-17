@@ -11,7 +11,7 @@
 		B7EF1D6D264F970300A0801F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF1D6C264F970300A0801F /* SceneDelegate.swift */; };
 		B7EF1D6F264F970300A0801F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF1D6E264F970300A0801F /* ViewController.swift */; };
 		B7EF1D72264F970300A0801F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7EF1D70264F970300A0801F /* Main.storyboard */; };
-		B7EF1D75264F970300A0801F /* Mahesh_Task.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B7EF1D73264F970300A0801F /* Mahesh_Task.xcdatamodeld */; };
+		B7EF1D75264F970300A0801F /* DSG_Test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B7EF1D73264F970300A0801F /* DSG_Test.xcdatamodeld */; };
 		B7EF1D77264F970400A0801F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7EF1D76264F970400A0801F /* Assets.xcassets */; };
 		B7EF1D7A264F970400A0801F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7EF1D78264F970400A0801F /* LaunchScreen.storyboard */; };
 		B7EF1D85264F970400A0801F /* DSG_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF1D84264F970400A0801F /* DSG_TestTests.swift */; };
@@ -212,7 +212,7 @@
 				B7EF1D7B264F970400A0801F /* Info.plist */,
 				B7EF1EA7264FE42000A0801F /* Coredata */,
 				B7EF1E95264FE2D600A0801F /* Favourite+CoreDataClass.swift */,
-				B7EF1D73264F970300A0801F /* Mahesh_Task.xcdatamodeld */,
+				B7EF1D73264F970300A0801F /* DSG_Test.xcdatamodeld */,
 			);
 			path = DSG_Test;
 			sourceTree = "<group>";
@@ -496,7 +496,7 @@
 				B7EF1DF7264FAF6A00A0801F /* SearchResults.swift in Sources */,
 				B7EF1E05264FAF6A00A0801F /* Document_source.swift in Sources */,
 				B7EF1E20264FC2F500A0801F /* UIImageView+Extension.swift in Sources */,
-				B7EF1D75264F970300A0801F /* Mahesh_Task.xcdatamodeld in Sources */,
+				B7EF1D75264F970300A0801F /* DSG_Test.xcdatamodeld in Sources */,
 				B7EF1E01264FAF6A00A0801F /* Messages.swift in Sources */,
 				B7EF1E16264FB57600A0801F /* UIViewController+Extension.swift in Sources */,
 				B7EF1DF1264FAF6A00A0801F /* Location.swift in Sources */,
@@ -871,13 +871,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		B7EF1D73264F970300A0801F /* Mahesh_Task.xcdatamodeld */ = {
+		B7EF1D73264F970300A0801F /* DSG_Test.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				B7EF1D74264F970300A0801F /* Mahesh_Task.xcdatamodel */,
 			);
 			currentVersion = B7EF1D74264F970300A0801F /* Mahesh_Task.xcdatamodel */;
-			path = Mahesh_Task.xcdatamodeld;
+			path = DSG_Test.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
